@@ -1,0 +1,71 @@
+﻿,IMF Forecast: GDP: Deflator: Advanced Economies: South Korea
+Region,South Korea
+Subnational,
+Frequency,"Annual, ending ""Dec"" of each year"
+Unit,Index
+Source,International Monetary Fund
+Status,Active
+Series ID,260820901
+SR Code,SR4479931
+Mnemonic,
+Function Description,
+First Obs. Date,1980
+Last Obs. Date,2024
+Last Update Time,09/04/2020
+Series remarks,"[Subject Notes]The GDP deflator is derived by dividing current price GDP by constant price GDP and is considered to be an alternate measure of inflation. Data are expressed in the base year of each country's national accounts. [Series-specific Notes]See notes for:  Gross domestic product, constant prices (National currency) Gross domestic product, current prices (National currency)."
+Suggestions,
+Mean,72.3380888888889
+Variance,765.6908670373737
+Standard Deviation,27.671119728651632
+Skewness,-0.37216903452731737
+Kurtosis,-1.2148592523537318
+Coefficient Variation,0.38252489322954597
+Min,22.603
+Max,110.948
+Median,76.892
+No. of Obs,45
+1980,22.603
+1981,26.353
+1982,28.06
+1983,29.42
+1984,30.721
+1985,31.947
+1986,33.531
+1987,35.19
+1988,37.691
+1989,39.968
+1990,44.008
+1991,48.182
+1992,51.913
+1993,55.13
+1994,59.597
+1995,63.733
+1996,66.445
+1997,69.146
+1998,72.338
+1999,71.481
+2000,72.119
+2001,74.628
+2002,76.892
+2003,79.544
+2004,82.032
+2005,82.887
+2006,82.702
+2007,84.702
+2008,87.096
+2009,90.239
+2010,92.71
+2011,93.898
+2012,95.073
+2013,96.042
+2014,96.913
+2015,100
+2016,101.986
+2017,104.253
+2018,104.744
+2019,103.83
+2020,103.89
+2021,105.071
+2022,106.8
+2023,108.758
+2024,110.948
